@@ -1,0 +1,12 @@
+#box{
+    padding: 15px;
+    width: 30%;
+    margin: 40px auto;
+    background-color: rgb(163, 255, 243);
+    border: 1px solid grey;
+    box-shadow: 0px 0px 10px;
+}
+.error{
+    color: red;
+    text-align: start;
+}
