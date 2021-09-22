@@ -1,0 +1,19 @@
+#box{
+    padding: 15px;
+    width: 30%;
+    margin: 20px auto auto 20px;
+    background-color: white;
+    
+}
+.error{
+    color: red;
+    text-align: start;
+    font-weight: bold;
+}
+form{
+    text-align: center;
+}
+.heading{
+    padding:15px;
+    border-bottom: 0.5px solid grey;
+}
